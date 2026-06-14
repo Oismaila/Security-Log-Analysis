@@ -49,3 +49,24 @@ Contains the investigation findings and recommendations.
 ## Author
 
 Ismail Amoud
+
+## Python Automation
+
+This project includes a Python-based log analysis tool capable of:
+
+- Parsing authentication logs
+- Identifying failed login attempts
+- Summarizing suspicious authentication activity
+- Supporting basic security investigations
+
+## Key Achievement
+
+Developed a Python-based log analysis tool to identify failed authentication attempts and summarize suspicious login activity.
+
+## Technologies Used
+
+- Python
+- GitHub
+- Log Analysis
+- Cybersecurity
+- Security Monitoring
