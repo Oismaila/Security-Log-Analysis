@@ -1,0 +1,11 @@
+Security Log Analysis Report
+============================
+
+Failed Login Summary
+--------------------
+10.0.0.25 : 4 failed attempts
+172.16.0.100 : 1 failed attempts
+
+Suspicious Activity
+-------------------
+ALERT: 10.0.0.25 generated 4 failed login attempts
